@@ -11,14 +11,14 @@ hidden: true
 
 In the ever-evolving landscape of natural language processing (NLP), the Encoder-Decoder architecture has been a pivotal breakthrough, enabling machines to perform complex tasks such as machine translation, text summarization, and question-answering with increasing sophistication. This architecture is divided into two segments: the Encoder, which interprets the input text, and the Decoder, which generates the translated output.
 
-![Encoder-Decoder architecture](assets/images/encoder_decoder.jpg "Encoder-Decoder architecture")
+![Encoder-Decoder architecture](assets/images/1.jpg "Encoder-Decoder architecture")
 
 
 ## Encoder-Decoder architecture
 
 The Encoder ingests the input sequence, such as a sentence in English, and processes it word by word. Each word is transformed into a dense vector representation that captures its semantic and grammatical essence within the sentence. As the Encoder reads each word, it accumulates a running contextual understanding, which is then summarized into what is known as a 'summary vector' or 'context vector.' This vector is intended to encapsulate the entire meaning of the input sequence in a fixed-length format.
 
-More details on this [here](#).
+More details on this [https://www.linkedin.com/pulse/navigating-complexities-language-translation-seq2seq-models-arora-nzj8f/)].
 
 
 
