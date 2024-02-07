@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Essential Concept of Random Variables in Data Science"
-author: john
+author: Tarun
 categories: [ Data Science, Statistics ]
 tags: [random variable, probability]
 image: assets/images/11.jpg
@@ -32,65 +32,6 @@ A random variable is essentially a function, but not the kind you might recall f
 Now that random variables are explained, we're primed to explore another cornerstone of statistical analysis: 
 
 In the next post, I'll delve into this topic, revealing why comprehending probability distributions is crucial and how our knowledge of random variables lays the groundwork for this understanding. Stay tuned for a deep dive into probability distributions, where we'll uncover how they help us quantify uncertainty and predict the behavior of random phenomena in our data-driven world. 📊🔍
-
-
-[//]: # (---)
-
-[//]: # (layout: post)
-
-[//]: # (title:  "Inception Movie")
-
-[//]: # (author: john)
-
-[//]: # (categories: [ Jekyll, tutorial ])
-
-[//]: # (tags: [red, yellow])
-
-[//]: # (image: assets/images/11.jpg)
-
-[//]: # (description: "My review of Inception movie. Acting, plot and something else in this short description.")
-
-[//]: # (featured: true)
-
-[//]: # (hidden: true)
-
-[//]: # (rating: 4.5)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.)
-
-[//]: # ()
-[//]: # (#### How to use?)
-
-[//]: # ()
-[//]: # (It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:)
-
-[//]: # ()
-[//]: # (```html)
-
-[//]: # (---)
-
-[//]: # (layout: post)
-
-[//]: # (title:  "Inception Movie")
-
-[//]: # (author: john)
-
-[//]: # (categories: [ Jekyll, tutorial ])
-
-[//]: # (tags: [red, yellow])
-
-[//]: # (image: assets/images/11.jpg)
-
-[//]: # (description: "My review of Inception movie. Actors, directing and more.")
-
-[//]: # (rating: 4.5)
-
-[//]: # (---)
-
-[//]: # (```)
 
 
 
