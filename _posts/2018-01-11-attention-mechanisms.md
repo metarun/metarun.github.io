@@ -11,7 +11,7 @@ hidden: true
 
 In the ever-evolving landscape of natural language processing (NLP), the Encoder-Decoder architecture has been a pivotal breakthrough, enabling machines to perform complex tasks such as machine translation, text summarization, and question-answering with increasing sophistication. This architecture is divided into two segments: the Encoder, which interprets the input text, and the Decoder, which generates the translated output.
 
-![Encoder-Decoder architecture](assets/images/encoder_decoder.png "Encoder-Decoder architecture")
+![Encoder-Decoder architecture](assets/images/encoder_decoder.jpg "Encoder-Decoder architecture")
 
 
 ## Encoder-Decoder architecture
